@@ -7,6 +7,10 @@ This project is a **Sales Analytics Dashboard** built using **Next.js 15**, **Ty
 The application displays yearly sales analytics for **2022, 2023, and 2024** using interactive charts and dashboard statistics. The project demonstrates frontend development concepts such as API integration, reusable components, data visualization, filtering, and responsive design.
 
 ---
+## Project Live Link
+https://sales-dashboard-pig23fho0-astershan01-gmailcoms-projects.vercel.app/dashboard
+
+---
 
 ## Technologies Used
 
