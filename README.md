@@ -278,26 +278,7 @@ http://localhost:3000/dashboard
 
 ---
 
-## Installed Packages
 
-```bash
-pnpm add recharts
-pnpm add clsx
-pnpm add tailwind-merge
-pnpm add class-variance-authority
-pnpm add @radix-ui/react-slot
-```
-
-Installed shadcn components:
-
-```bash
-pnpm dlx shadcn@latest add card
-pnpm dlx shadcn@latest add button
-pnpm dlx shadcn@latest add input
-pnpm dlx shadcn@latest add select
-```
-
----
 
 ## What I Did In This Project
 
